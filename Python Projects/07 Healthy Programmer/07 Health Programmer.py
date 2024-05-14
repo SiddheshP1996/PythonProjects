@@ -35,9 +35,12 @@ if __name__ == '__main__':
     init_water = time()
     init_eyes = time()
     init_exercise = time()
-    water_secs = 40 * 60
-    exercise_secs = 45 * 60
-    eyes_secs = 30 * 60
+    water_secs = 6
+    exercise_secs = 4
+    eyes_secs = 3
+    # water_secs = 40 * 60
+    # exercise_secs = 45 * 60
+    # eyes_secs = 30 * 60
 
     while True:
         if time() - init_water > water_secs:

@@ -24,3 +24,6 @@ Drank water at 2024-02-13 00:48:56.318163
 Eyes relaxed at 2024-05-10 17:17:40.193836
 Physical Activity done at 2024-05-10 17:17:45.385304
 Drank water at 2024-05-10 17:17:48.232893
+Eyes relaxed at 2024-05-14 17:27:01.416306
+Physical Activity done at 2024-05-14 17:27:05.097002
+Drank water at 2024-05-14 17:27:07.510880
